@@ -201,6 +201,7 @@ body {
     box-shadow: 3px 3px 5px #28252b;
     padding: 2rem 2rem;
     background-color: #2c2830;
+    border-left: 10px solid #DEDDCD;
 }
 
 .project-content {
